@@ -1,3 +1,3 @@
 alert("Hello");
 
-console.log("Button pressed");
+console.log("Button press");
