@@ -146,5 +146,27 @@ nav a:hover {
     line-height: 1.8em;
 }
 
+.words {
+    color: white;
+    position: absolute;
+    bottom: 100px;
+    left: 100px;
+    font-size: 38px;
+    
+      }
+
+
+.words h2 {
+   color:black;
+   font-family: fantasy;
+}
+
+.words h1 {
+    color:blueviolet;
+    font-family: fantasy;
+}
+
+
+
 
 
